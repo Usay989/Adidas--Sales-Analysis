@@ -29,14 +29,17 @@ This project analyzes Adidas sales performance using Power BI and Excel. The das
 
 ## Dashboard Screenshots
 
-### Dashboard Overview
-![Dashboard Overview](images/dashboard_overview.png)
+## Dashboard Overview
 
-### KPI & Revenue View
-![KPI Revenue View](images/kpi_revenue_view.png)
+![Dashboard Overview](Dashboard%20overview.png)
 
-### Regional Sales Analysis
-![Regional Sales](images/regional_sales.png)
+## KPI & Revenue View
+
+![KPI Cards](KPI's%20card.png)
+
+## Regional Sales Analysis
+
+![Regional Sales](sales_regional.png)
 
 ## Files Included
 - Adidas_Sales_Data.xlsx
